@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Prices Only Members for Woocommerce\n"
+"POT-Creation-Date: 2017-03-18 14:56+0100\n"
+"PO-Revision-Date: 2017-03-18 14:56+0100\n"
+"Last-Translator: \n"
+"Language-Team: Dario Curasì <curasi.d87@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-dc-pomfw-admin.php:170
+msgid ""
+"Prices Only Members for Woocommerce is active but does not work. You need to "
+"install WooCommerce because the plugin is working properly."
+msgstr ""
+
+#: admin/partials/dc-pomfw-admin-display.php:17
+msgid "Prices Only Members for Woocommerce"
+msgstr ""
+
+#: admin/partials/dc-pomfw-admin-display.php:22
+msgid "Configuration"
+msgstr ""
+
+#: admin/partials/dc-pomfw-admin-display.php:27
+msgid "Enable / Disable"
+msgstr ""
+
+#: admin/partials/dc-pomfw-admin-display.php:31
+msgid "Activate Options"
+msgstr ""
+
+#: admin/partials/dc-pomfw-admin-display.php:37
+msgid "Message"
+msgstr ""
+
+#: admin/partials/dc-pomfw-admin-display.php:43
+msgid "The notification message that appears when the user is not logged in."
+msgstr ""
+
+#: admin/partials/dc-pomfw-admin-display.php:49
+msgid "Message Position"
+msgstr ""
+
+#: admin/partials/dc-pomfw-admin-display.php:53
+msgid "Before main content"
+msgstr ""
+
+#: admin/partials/dc-pomfw-admin-display.php:54
+msgid "Replacing Price"
+msgstr ""
+
+#: admin/partials/dc-pomfw-admin-display.php:56
+msgid "The notification message position."
+msgstr ""
+
+#: admin/partials/dc-pomfw-admin-display.php:61
+msgid "Login Text"
+msgstr ""
+
+#: admin/partials/dc-pomfw-admin-display.php:65
+msgid ""
+"The text of the link to go to the login. Use the shortcode [login] to add "
+"the login link in the text message."
+msgstr ""
+
+#: admin/partials/dc-pomfw-admin-display.php:70
+msgid "Login Link"
+msgstr ""
+
+#: admin/partials/dc-pomfw-admin-display.php:74
+msgid "The link to go to the login."
+msgstr ""
+
+#: admin/partials/dc-pomfw-admin-display.php:79
+msgid "Register Text"
+msgstr ""
+
+#: admin/partials/dc-pomfw-admin-display.php:83
+msgid ""
+"The text of the link to go to the register. Use the shortcode [register] to "
+"add the register link in the text message."
+msgstr ""
+
+#: admin/partials/dc-pomfw-admin-display.php:88
+msgid "Register Link"
+msgstr ""
+
+#: admin/partials/dc-pomfw-admin-display.php:92
+msgid "The link to go to the register."
+msgstr ""
+
+#: includes/class-dc-pomfw-activator.php:34
+msgid "Only registered users can purchase. [login] or [register]."
+msgstr ""
+
+#: includes/class-dc-pomfw-activator.php:36
+msgid "Login"
+msgstr ""
+
+#: includes/class-dc-pomfw-activator.php:38
+msgid "Register"
+msgstr ""
